@@ -1,22 +1,21 @@
 {
-  "posts": [
-    {
-    "id": 1,
-    "name" : "Anna",
-    "department": "kitchen",
-    },
-    {
-    "id": 2,
-    "name" : "Bob",
-    "department": "backyard",
-    },
-    {
-    "id": 3,
-    "name" : "Juri",
-    "department": "bedroom",
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posts": [{
+			"id": 1,
+			"name": "Anna",
+			"department": "kitchen"
+		},
+		{
+			"id": 2,
+			"name": "Bob",
+			"department": "backyard"
+		},
+		{
+			"id": 3,
+			"name": "Juri",
+			"department": "bedroom"
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
